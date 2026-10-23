@@ -27,8 +27,8 @@ import (
 )
 
 const (
-	light = "#67D4E8" // the gradient's light stop
-	dark  = "#0B6074" // its dark stop
+	light = "#D98CE0" // the gradient's light stop
+	dark  = "#9810A4" // its dark stop
 
 	stroke = 13.0 // the family's line width
 	centre = 128.0

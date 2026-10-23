@@ -5,9 +5,9 @@ Official logos for the **go-symbolic** organization.
 <img src="avatar/go-symbolic.png" width="160" alt="go-symbolic">
 
 The mark is the integral sign, the operation a computer algebra system is judged by: one stroke, a stem with a hook at each end. It is written by `mark/main.go`, which computes the layout from a
-few numbers; nothing is placed by hand. Its gradient (`#67D4E8` to `#0B6074`)
-is a cyan that sets go-symbolic apart from the violet of go-numerics, the emerald of go-ndarray and go-fft, the blue of go-plot, the magenta of go-bignum, the brick red of go-sparse, the orange of go-approx and the rose of go-dsp; its dark end reads
-on white at 7.14:1 and its light end on a dark page at 11.18:1.
+few numbers; nothing is placed by hand. Its gradient (`#D98CE0` to `#9810A4`)
+is a violet (hue 295) that sets go-symbolic apart from the indigo of go-numerics (267), the magenta of go-bignum and go-dataframe (321), the rose of go-dsp (335), the emerald of go-ndarray and go-fft, the blue of go-plot, the coral of go-sparse and the orange of go-approx; its dark end reads
+on white at 7.13:1 and its light end on a dark page at 8.09:1.
 
 ## Formats
 
